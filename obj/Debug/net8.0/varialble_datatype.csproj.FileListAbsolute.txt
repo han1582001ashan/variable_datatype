@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\bin\Debug\net8.0\varialble_datatype.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\bin\Debug\net8.0\varialble_datatype.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\bin\Debug\net8.0\varialble_datatype.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\bin\Debug\net8.0\varialble_datatype.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\bin\Debug\net8.0\varialble_datatype.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\obj\Debug\net8.0\varialble_datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\obj\Debug\net8.0\varialble_datatype.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\obj\Debug\net8.0\varialble_datatype.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\obj\Debug\net8.0\varialble_datatype.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\obj\Debug\net8.0\varialble_datatype.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\obj\Debug\net8.0\refint\varialble_datatype.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\obj\Debug\net8.0\varialble_datatype.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\obj\Debug\net8.0\varialble_datatype.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\varialble_datatype\obj\Debug\net8.0\ref\varialble_datatype.dll
